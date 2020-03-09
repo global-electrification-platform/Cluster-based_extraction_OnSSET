@@ -1,6 +1,12 @@
 # Cluster-based_extraction_OnSSET
 Developed in order to facilitate the GIS extraction for OnSSET when the population base layer in the analysis is a polygon layer
 
+As of March 2020, there are three versions of the plugin:
+
+* **Option 1**. Works for QGIS 3.10 (latest LTR)
+* **Option 2**. Works for QGIS 3.4 (latest LTR)
+* **Option 3**. Works for QGIS 3.2 (latest LTR)
+
 ### Introduction
 
 The following repository includes an extraction plugin used in order to automate the GIS data extraction for cluster-based OnSSET analysis. The plugin is developed in a PyQGIS interface and adapted to be run direclty in QGIS (version 3.0 or newer). 
