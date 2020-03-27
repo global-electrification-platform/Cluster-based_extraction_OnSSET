@@ -4,8 +4,8 @@ Developed in order to facilitate the GIS extraction for OnSSET when the populati
 As of March 2020, there are three versions of the plugin:
 
 * **Option 1**. Works for QGIS 3.10 (latest LTR)
-* **Option 2**. Works for QGIS 3.4 (latest LTR)
-* **Option 3**. Works for QGIS 3.2 (latest LTR)
+* **Option 2**. Works for QGIS 3.4 
+* **Option 3**. Works for QGIS 3.2 
 
 ### Introduction
 
